@@ -1,4 +1,4 @@
----
+---sfgg
 manufacturer:
     - general
 ---
